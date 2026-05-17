@@ -1,0 +1,19 @@
+CARA INSTALL PALING AMAN
+
+FRONTEND:
+cd smart-tourism-lbs/frontend
+rm -rf node_modules
+npm ci --no-audit --no-fund
+npm run dev
+
+BACKEND:
+cd smart-tourism-lbs/backend
+rm -rf node_modules
+npm ci --no-audit --no-fund
+npm run dev
+
+CATATAN:
+- Gunakan npm ci, bukan npm install, karena package-lock.json sudah disediakan.
+- Frontend sudah dibuat lebih ringan: dependency yang tidak dipakai sudah dihapus.
+- Kalau masih loading lama, pakai Node.js LTS versi 22.
+- Kalau port 5000 sudah dipakai, ubah PORT di backend/.env menjadi 5001.

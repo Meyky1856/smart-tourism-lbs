@@ -1,0 +1,93 @@
+[
+  {
+    "id": "masjid-raya-sultan-riau",
+    "title": "Masjid Raya Sultan Riau",
+    "type": "destination",
+    "category": "Religi",
+    "location": "Kampung Masjid",
+    "summary": "Ikon utama Pulau Penyengat dan pusat wisata religi bersejarah. Masjid ini menjadi daya tarik utama wisatawan yang ingin mengenal sejarah Kesultanan Riau-Lingga.",
+    "description": "Ikon utama Pulau Penyengat dan pusat wisata religi bersejarah. Masjid ini menjadi daya tarik utama wisatawan yang ingin mengenal sejarah Kesultanan Riau-Lingga.",
+    "keywords": [
+      "masjid",
+      "religi",
+      "sultan riau",
+      "ikon",
+      "penyengat"
+    ]
+  },
+  {
+    "id": "benteng-bukit-kursi",
+    "title": "Benteng Bukit Kursi",
+    "type": "destination",
+    "category": "Sejarah",
+    "location": "Bukit Kursi",
+    "summary": "Situs benteng pertahanan peninggalan masa Kesultanan Riau-Lingga. Cocok untuk wisata sejarah dan edukasi.",
+    "description": "Situs benteng pertahanan peninggalan masa Kesultanan Riau-Lingga. Cocok untuk wisata sejarah dan edukasi.",
+    "keywords": [
+      "benteng",
+      "bukit kursi",
+      "sejarah",
+      "pertahanan"
+    ]
+  },
+  {
+    "id": "makam-raja-ali-haji",
+    "title": "Makam Raja Ali Haji",
+    "type": "destination",
+    "category": "Sejarah",
+    "location": "Kompleks Makam",
+    "summary": "Makam tokoh bahasa dan sastra Melayu yang berperan penting dalam sejarah kebudayaan Melayu.",
+    "description": "Makam tokoh bahasa dan sastra Melayu yang berperan penting dalam sejarah kebudayaan Melayu.",
+    "keywords": [
+      "raja ali haji",
+      "makam",
+      "gurindam",
+      "bahasa melayu"
+    ]
+  },
+  {
+    "id": "balai-adat",
+    "title": "Balai Adat Melayu",
+    "type": "destination",
+    "category": "Budaya",
+    "location": "Pusat Pulau",
+    "summary": "Tempat untuk mengenal adat, tradisi, dan identitas Melayu di Pulau Penyengat.",
+    "description": "Tempat untuk mengenal adat, tradisi, dan identitas Melayu di Pulau Penyengat.",
+    "keywords": [
+      "adat",
+      "budaya",
+      "melayu",
+      "tradisi"
+    ]
+  },
+  {
+    "id": "pelabuhan-penyengat",
+    "title": "Pelabuhan Penyengat",
+    "type": "destination",
+    "category": "Transportasi",
+    "location": "Dermaga Utama",
+    "summary": "Akses utama menuju Pulau Penyengat menggunakan pompong dari Tanjungpinang.",
+    "description": "Akses utama menuju Pulau Penyengat menggunakan pompong dari Tanjungpinang.",
+    "keywords": [
+      "pelabuhan",
+      "pompong",
+      "transportasi",
+      "akses"
+    ]
+  },
+  {
+    "id": "istana-kantor",
+    "title": "Istana Kantor",
+    "type": "destination",
+    "category": "Sejarah",
+    "location": "Area Istana",
+    "summary": "Situs peninggalan pusat pemerintahan dan kehidupan bangsawan Melayu Riau.",
+    "description": "Situs peninggalan pusat pemerintahan dan kehidupan bangsawan Melayu Riau.",
+    "keywords": [
+      "istana",
+      "kantor",
+      "sejarah",
+      "pemerintahan"
+    ]
+  }
+]

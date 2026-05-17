@@ -1,0 +1,19 @@
+PERUBAHAN TERBARU
+
+1. Urutan section setelah hero sudah diubah menjadi:
+   Tentang Pulau -> Budaya Melayu -> Destinasi Wisata -> Kuliner Khas -> Galeri -> Kontak.
+
+2. Urutan menu navbar ikut disesuaikan:
+   Beranda, Tentang, Budaya, Wisata, Kuliner, Galeri, Kontak.
+
+3. Card pada section bawah sudah diberi gambar lokal SVG agar tidak bergantung internet.
+
+4. Tombol close AI sekarang hanya ada di kanan atas popup AI.
+   Saat popup AI terbuka, tombol floating bawah otomatis disembunyikan.
+
+5. Rekomendasi pertanyaan AI ditambah.
+
+Jalankan frontend:
+cd smart-tourism-lbs/frontend
+npm ci --no-audit --no-fund
+npm run dev

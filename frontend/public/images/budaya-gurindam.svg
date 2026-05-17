@@ -1,0 +1,24 @@
+<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 900 600' role='img' aria-label='Gurindam Dua Belas'>
+      <defs>
+        <linearGradient id='bg' x1='0' y1='0' x2='1' y2='1'>
+          <stop offset='0%' stop-color='#3d8535'/>
+          <stop offset='100%' stop-color='#173d25'/>
+        </linearGradient>
+        <radialGradient id='glow' cx='28%' cy='20%' r='65%'>
+          <stop offset='0%' stop-color='#ffffff' stop-opacity='.24'/>
+          <stop offset='100%' stop-color='#ffffff' stop-opacity='0'/>
+        </radialGradient>
+      </defs>
+      <rect width='900' height='600' fill='url(#bg)'/>
+      <rect width='900' height='600' fill='url(#glow)'/>
+      <circle cx='80' cy='80' r='120' fill='#fff' opacity='.05'/>
+      <circle cx='795' cy='510' r='170' fill='#000' opacity='.09'/>
+      
+          <rect x='250' y='185' width='400' height='280' rx='28' fill='#faf8f4'/>
+          <rect x='290' y='225' width='320' height='175' rx='18' fill='#dfece1'/>
+          <circle cx='360' cy='278' r='33' fill='#f2c472'/>
+          <path d='M305 400l90-76 64 48 55-72 96 100z' fill='#2e6b27' opacity='.9'/>
+          <path d='M312 440h276' stroke='#b8782a' stroke-width='18' stroke-linecap='round'/>
+        
+      <text x='54' y='548' fill='#fff' font-family='Arial, sans-serif' font-size='38' font-weight='700'>Gurindam Dua Belas</text>
+    </svg>

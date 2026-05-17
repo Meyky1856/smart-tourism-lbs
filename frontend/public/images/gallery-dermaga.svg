@@ -1,0 +1,23 @@
+<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 900 600' role='img' aria-label='Pompong Penyengat'>
+      <defs>
+        <linearGradient id='bg' x1='0' y1='0' x2='1' y2='1'>
+          <stop offset='0%' stop-color='#2e6b27'/>
+          <stop offset='100%' stop-color='#173d25'/>
+        </linearGradient>
+        <radialGradient id='glow' cx='28%' cy='20%' r='65%'>
+          <stop offset='0%' stop-color='#ffffff' stop-opacity='.24'/>
+          <stop offset='100%' stop-color='#ffffff' stop-opacity='0'/>
+        </radialGradient>
+      </defs>
+      <rect width='900' height='600' fill='url(#bg)'/>
+      <rect width='900' height='600' fill='url(#glow)'/>
+      <circle cx='80' cy='80' r='120' fill='#fff' opacity='.05'/>
+      <circle cx='795' cy='510' r='170' fill='#000' opacity='.09'/>
+      
+          <path d='M238 395h424c-25 65-88 98-194 98H338c-46 0-80-34-100-98z' fill='#faf8f4'/>
+          <path d='M345 375h185l-54-105c-58 22-100 58-131 105z' fill='#f2c472'/>
+          <path d='M526 375h88l-78-145z' fill='#efe1cf'/>
+          <path d='M210 480c70-30 124 30 194 0s124-30 194 0 92 16 120 2' fill='none' stroke='#dfece1' stroke-width='22' stroke-linecap='round'/>
+        
+      <text x='54' y='548' fill='#fff' font-family='Arial, sans-serif' font-size='38' font-weight='700'>Pompong Penyengat</text>
+    </svg>

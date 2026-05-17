@@ -1,0 +1,24 @@
+<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 900 600' role='img' aria-label='Pulau Penyengat'>
+      <defs>
+        <linearGradient id='bg' x1='0' y1='0' x2='1' y2='1'>
+          <stop offset='0%' stop-color='#173d25'/>
+          <stop offset='100%' stop-color='#2e6b27'/>
+        </linearGradient>
+        <radialGradient id='glow' cx='28%' cy='20%' r='65%'>
+          <stop offset='0%' stop-color='#ffffff' stop-opacity='.24'/>
+          <stop offset='100%' stop-color='#ffffff' stop-opacity='0'/>
+        </radialGradient>
+      </defs>
+      <rect width='900' height='600' fill='url(#bg)'/>
+      <rect width='900' height='600' fill='url(#glow)'/>
+      <circle cx='80' cy='80' r='120' fill='#fff' opacity='.05'/>
+      <circle cx='795' cy='510' r='170' fill='#000' opacity='.09'/>
+      
+          <path d='M230 440c84-70 353-76 440 0-55 50-385 50-440 0z' fill='#dfece1'/>
+          <path d='M355 345c40-70 92-98 148-82-44 49-52 102-38 154' fill='none' stroke='#173d25' stroke-width='28' stroke-linecap='round'/>
+          <path d='M480 265c70-42 130-31 165 20-76 5-124 31-154 79' fill='#f2c472' opacity='.95'/>
+          <path d='M350 333c-64-32-118-24-160 22 62 2 108 19 140 53' fill='#f2c472' opacity='.88'/>
+          <circle cx='604' cy='160' r='48' fill='#f2c472' opacity='.95'/>
+        
+      <text x='54' y='548' fill='#fff' font-family='Arial, sans-serif' font-size='38' font-weight='700'>Pulau Penyengat</text>
+    </svg>

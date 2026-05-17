@@ -1,0 +1,23 @@
+<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 900 600' role='img' aria-label='Makam Bersejarah'>
+      <defs>
+        <linearGradient id='bg' x1='0' y1='0' x2='1' y2='1'>
+          <stop offset='0%' stop-color='#3d8535'/>
+          <stop offset='100%' stop-color='#173d25'/>
+        </linearGradient>
+        <radialGradient id='glow' cx='28%' cy='20%' r='65%'>
+          <stop offset='0%' stop-color='#ffffff' stop-opacity='.24'/>
+          <stop offset='100%' stop-color='#ffffff' stop-opacity='0'/>
+        </radialGradient>
+      </defs>
+      <rect width='900' height='600' fill='url(#bg)'/>
+      <rect width='900' height='600' fill='url(#glow)'/>
+      <circle cx='80' cy='80' r='120' fill='#fff' opacity='.05'/>
+      <circle cx='795' cy='510' r='170' fill='#000' opacity='.09'/>
+      
+          <path d='M332 285c0-70 46-116 118-116s118 46 118 116v180H332z' fill='#faf8f4'/>
+          <path d='M372 462V300c0-48 31-79 78-79s78 31 78 79v162z' fill='#dfece1'/>
+          <path d='M285 465h330' stroke='#f2c472' stroke-width='20' stroke-linecap='round'/>
+          <path d='M420 340h60M450 310v60' stroke='#173d25' stroke-width='14' stroke-linecap='round' opacity='.65'/>
+        
+      <text x='54' y='548' fill='#fff' font-family='Arial, sans-serif' font-size='38' font-weight='700'>Makam Bersejarah</text>
+    </svg>

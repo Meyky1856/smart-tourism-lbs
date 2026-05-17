@@ -1,0 +1,30 @@
+<svg width="180" height="180" viewBox="0 0 180 180" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="body" x1="42" y1="29" x2="143" y2="153" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F2C472"/>
+      <stop offset="0.42" stop-color="#FFFFFF"/>
+      <stop offset="1" stop-color="#DFF0DF"/>
+    </linearGradient>
+    <linearGradient id="green" x1="44" y1="30" x2="139" y2="159" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#3D8535"/>
+      <stop offset="1" stop-color="#0B2114"/>
+    </linearGradient>
+    <filter id="shadow" x="12" y="12" width="156" height="160" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feDropShadow dx="0" dy="12" stdDeviation="10" flood-color="#000" flood-opacity="0.22"/>
+    </filter>
+  </defs>
+  <g filter="url(#shadow)">
+    <path d="M90 24c34.794 0 63 27.982 63 62.5S124.794 149 90 149 27 121.018 27 86.5 55.206 24 90 24Z" fill="url(#green)"/>
+    <path d="M43 83c0-25.405 21.043-46 47-46s47 20.595 47 46v13c0 25.405-21.043 46-47 46S43 121.405 43 96V83Z" fill="url(#body)"/>
+    <path d="M56 84c0-16.016 13.208-29 29.5-29h9C110.792 55 124 67.984 124 84v5c0 16.016-13.208 29-29.5 29h-9C69.208 118 56 105.016 56 89v-5Z" fill="#173D25"/>
+    <circle cx="77" cy="87" r="8" fill="#F2C472"/>
+    <circle cx="103" cy="87" r="8" fill="#F2C472"/>
+    <path d="M78 102c7.4 7.3 16.6 7.3 24 0" stroke="#F2C472" stroke-width="5" stroke-linecap="round"/>
+    <path d="M90 24v-9" stroke="#F2C472" stroke-width="7" stroke-linecap="round"/>
+    <circle cx="90" cy="12" r="8" fill="#F2C472"/>
+    <path d="M42 93H31c-5.523 0-10-4.477-10-10s4.477-10 10-10h11v20Z" fill="#F2C472"/>
+    <path d="M138 73h11c5.523 0 10 4.477 10 10s-4.477 10-10 10h-11V73Z" fill="#F2C472"/>
+    <path d="M63 139h54l-8 17H71l-8-17Z" fill="#173D25"/>
+    <path d="M74 142h32" stroke="#F2C472" stroke-width="5" stroke-linecap="round"/>
+  </g>
+</svg>

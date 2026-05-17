@@ -1,0 +1,25 @@
+<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 900 600' role='img' aria-label='Benteng Bukit Kursi'>
+      <defs>
+        <linearGradient id='bg' x1='0' y1='0' x2='1' y2='1'>
+          <stop offset='0%' stop-color='#2e6b27'/>
+          <stop offset='100%' stop-color='#173d25'/>
+        </linearGradient>
+        <radialGradient id='glow' cx='28%' cy='20%' r='65%'>
+          <stop offset='0%' stop-color='#ffffff' stop-opacity='.24'/>
+          <stop offset='100%' stop-color='#ffffff' stop-opacity='0'/>
+        </radialGradient>
+      </defs>
+      <rect width='900' height='600' fill='url(#bg)'/>
+      <rect width='900' height='600' fill='url(#glow)'/>
+      <circle cx='80' cy='80' r='120' fill='#fff' opacity='.05'/>
+      <circle cx='795' cy='510' r='170' fill='#000' opacity='.09'/>
+      
+          <path d='M250 330h400v135H250z' fill='#efe1cf'/>
+          <path d='M250 285h70v45h-70zM360 285h70v45h-70zM470 285h70v45h-70zM580 285h70v45h-70z' fill='#efe1cf'/>
+          <rect x='300' y='365' width='72' height='100' fill='#173d25' opacity='.68'/>
+          <rect x='430' y='365' width='72' height='100' fill='#173d25' opacity='.68'/>
+          <rect x='560' y='365' width='72' height='100' fill='#173d25' opacity='.68'/>
+          <path d='M210 465c96-44 390-42 480 0z' fill='#b8782a' opacity='.85'/>
+        
+      <text x='54' y='548' fill='#fff' font-family='Arial, sans-serif' font-size='38' font-weight='700'>Benteng Bukit Kursi</text>
+    </svg>

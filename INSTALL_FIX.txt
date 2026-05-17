@@ -1,0 +1,22 @@
+CATATAN INSTALL
+
+Jika npm install frontend terlalu lama atau tidak selesai, hapus package-lock.json lama terlebih dahulu.
+Pada versi ini package-lock.json sudah dihapus agar npm membuat lock baru dari registry resmi.
+
+Frontend:
+cd smart-tourism-lbs/frontend
+npm config set registry https://registry.npmjs.org/
+npm install --no-audit --no-fund
+npm run dev
+
+Backend:
+cd smart-tourism-lbs/backend
+npm install --no-audit --no-fund
+npm run dev
+
+UPDATE TERBARU:
+- Navbar bagian atas tidak lagi menampilkan tombol Tanya AI.
+- Menu ditambah: Galeri dan Kuliner.
+- Section setelah hero diganti mengikuti tampilan index.html: Tentang, Destinasi, Galeri, Budaya, Kuliner, Kontak, dan Footer.
+- Tombol close AI dibuat satu saja pada tombol floating kanan bawah.
+- Chat AI diberi rekomendasi pertanyaan cepat.

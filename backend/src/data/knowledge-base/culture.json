@@ -1,0 +1,41 @@
+[
+  {
+    "id": "gurindam-dua-belas",
+    "title": "Gurindam Dua Belas",
+    "type": "culture",
+    "category": "Sastra",
+    "summary": "Warisan sastra Melayu dari Raja Ali Haji yang berisi nilai moral, agama, dan kehidupan.",
+    "keywords": [
+      "gurindam",
+      "sastra",
+      "raja ali haji",
+      "melayu"
+    ]
+  },
+  {
+    "id": "tradisi-melayu",
+    "title": "Tradisi Melayu Penyengat",
+    "type": "culture",
+    "category": "Budaya",
+    "summary": "Pulau Penyengat memiliki identitas Melayu yang kuat melalui adat, bahasa, situs sejarah, dan wisata religi.",
+    "keywords": [
+      "tradisi",
+      "budaya",
+      "melayu",
+      "adat"
+    ]
+  },
+  {
+    "id": "kesultanan-riau-lingga",
+    "title": "Kesultanan Riau-Lingga",
+    "type": "culture",
+    "category": "Sejarah",
+    "summary": "Pulau Penyengat memiliki hubungan kuat dengan sejarah Kesultanan Riau-Lingga dan perkembangan budaya Melayu.",
+    "keywords": [
+      "kesultanan",
+      "riau lingga",
+      "sejarah",
+      "melayu"
+    ]
+  }
+]

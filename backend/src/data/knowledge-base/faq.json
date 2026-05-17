@@ -1,0 +1,44 @@
+[
+  {
+    "id": "akses-pompong",
+    "title": "Cara menuju Pulau Penyengat",
+    "type": "faq",
+    "category": "Transportasi",
+    "summary": "Wisatawan umumnya menuju Pulau Penyengat dari Tanjungpinang menggunakan pompong. Waktu perjalanan singkat dan biaya dapat berubah sesuai kondisi setempat.",
+    "keywords": [
+      "cara ke penyengat",
+      "pompong",
+      "transportasi",
+      "tanjungpinang"
+    ]
+  },
+  {
+    "id": "routing-astar",
+    "title": "Rute wisata dengan A*",
+    "type": "faq",
+    "category": "Teknis",
+    "summary": "Website menggunakan OpenStreetMap untuk tampilan peta. Rekomendasi rute dihitung memakai algoritma A* pada graf manual yang dibuat dari titik jalan hasil observasi lapangan.",
+    "keywords": [
+      "rute",
+      "astar",
+      "a star",
+      "graf manual",
+      "osm",
+      "peta"
+    ]
+  },
+  {
+    "id": "ai-rag",
+    "title": "AI Assistant dan RAG",
+    "type": "faq",
+    "category": "Teknis",
+    "summary": "AI Assistant menggunakan Gemini API. RAG mengambil informasi dari knowledge base lokal agar jawaban lebih sesuai dengan konteks Pulau Penyengat.",
+    "keywords": [
+      "ai",
+      "gemini",
+      "rag",
+      "pak cik",
+      "assistant"
+    ]
+  }
+]
